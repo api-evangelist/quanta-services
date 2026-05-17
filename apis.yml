@@ -5,7 +5,7 @@ description: >-
   infrastructure solutions to the electric power, renewable energy, oil and
   gas, pipeline, and communications industries throughout North America and
   Australia.
-type: Contract
+kind: contract
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg

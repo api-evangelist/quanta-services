@@ -24,6 +24,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/quanta-services
   - type: Website
     url: https://www.quanta-services.com/
   - type: Investor Relations

@@ -1,7 +1,9 @@
 ---
 title: Quanta Services was proud to take part in the Powering AI
 url: https://www.facebook.com/quantaservicesinc/posts/quanta-services-was-proud-to-take-part-in-the-powering-ai-global-leadership-summ/1876006149845436/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Quanta Services" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Big Tech Is on an AI Spending Spree. Quanta Services ...
 url: https://www.barrons.com/articles/quanta-services-ai-spending-raise-outlook-e81cd5ec
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Quanta Services" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Quanta Services to Host & Webcast its 2026 Investor Day
 url: https://www.prnewswire.com/news-releases/quanta-services-to-host--webcast-its-2026-investor-day-302707096.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Quanta Services" press release artificial intelligence'
 position: 2
 source: serpapi-google

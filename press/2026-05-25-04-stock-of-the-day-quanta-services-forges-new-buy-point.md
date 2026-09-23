@@ -1,7 +1,9 @@
 ---
 title: 'Stock Of The Day: Quanta Services Forges New Buy Point'
 url: https://www.investors.com/research/ibd-stock-of-the-day/quanta-services-stock-buy-point/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Quanta Services" press release artificial intelligence'
 position: 4
 source: serpapi-google
